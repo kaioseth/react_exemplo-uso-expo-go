@@ -1,0 +1,11 @@
+/estudo/.claude
+/estudo/.expo
+/estudo/node_modules
+
+/hello-world/.claude
+/hello-world/.expo
+/hello-world/.vscode
+/hello-world/node_modules
+
+/node_modules
+package-lock.json
