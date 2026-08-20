@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "estudo",
-    "slug": "estudo",
+    "name": "aula-03",
+    "slug": "aula-03",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
