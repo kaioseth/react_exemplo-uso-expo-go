@@ -1,7 +1,3 @@
-/aula-02/.claude
-/aula-02/.expo
-/aula-02/node_modules
-
 /hello-world/.claude
 /hello-world/.expo
 /hello-world/.vscode
@@ -9,3 +5,15 @@
 
 /node_modules
 package-lock.json
+
+/aula-02/.claude
+/aula-02/.expo
+/aula-02/node_modules
+
+/aula-03-as/.claude
+/aula-03-as/.expo
+/aula-03-as/node_modules
+
+/aula-03-tabs/.claude
+/aula-03-tabs/.expo
+/aula-03-tabs/node_modules
