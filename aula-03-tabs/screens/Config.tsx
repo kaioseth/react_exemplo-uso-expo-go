@@ -4,7 +4,7 @@ export default function Config() {
   return (
     <View style={styles.container}>
       <Text style={styles.texto}>
-        Configurações
+        Tela de Configurações
       </Text>
     </View>
   );

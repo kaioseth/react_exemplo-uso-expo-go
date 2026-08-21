@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { View, Text, Button } from 'react-native';
 
-export default function App() {
+export default function CountUsingState() {
   const [contador, setContador] = useState(0);
 
   function aumentarContador() {
